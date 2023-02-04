@@ -1,5 +1,5 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, moi, c'est Quentin !
-Je suis actuellement étudiant en 2ème année à Epitech Nantes.
+Je suis actuellement étudiant en 2ème année à [Epitech](https://www.epitech.eu/) Nantes.
 Je suis intéressé par tout type de technologies et de domaines, que ce soit dans la programmation, mais pas que !
 
 N'hésitez pas à m'envoyer un message privé si vous souhaitez discuter, je suis probablement en train de coder ou de me faire une partie de jeux de sociétés, alors je réponds dès que j'ai finis !
@@ -17,7 +17,6 @@ N'hésitez pas à m'envoyer un message privé si vous souhaitez discuter, je sui
 
 ## 📁 Base de donées:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/-Firestore-13aa52?style=for-the-badge&logo=firestore&logoColor=white)
 
 ## 📚 Frameworks, Platformes et Libraries:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)

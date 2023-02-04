@@ -15,6 +15,7 @@ N'hésitez pas à m'envoyer un message privé si vous souhaitez discuter, je sui
 
 ## 📁 Base de donées:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/-Firestore-13aa52?style=for-the-badge&logo=firestore&logoColor=white)
 
 ## 📚 Frameworks, Platformes et Libraries:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)

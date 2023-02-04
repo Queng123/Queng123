@@ -27,8 +27,8 @@ N'hésitez pas à m'envoyer un message privé si vous souhaitez discuter, je sui
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <div align="center">
-<img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api?username=queng123&theme=tokyonight" />
-<img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=queng123&theme=tokyonight" />
+<img style="vertical-align: middle;" height="200em" src="https://github-readme-stats.vercel.app/api?username=queng123&theme=tokyonight" />
+<img style="vertical-align: middle;" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=queng123&theme=tokyonight" />
 </div>
 ### Où me trouver ?
 

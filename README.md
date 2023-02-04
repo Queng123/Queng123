@@ -27,13 +27,12 @@ N'hésitez pas à m'envoyer un message privé si vous souhaitez discuter, je sui
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-![stats]("https://github-readme-stats.vercel.app/api?username=queng123&theme=tokyonight")
-![stats-langages]("https://github-readme-stats.vercel.app/api/top-langs?username=queng123&theme=tokyonight")
+<img src="https://github-readme-stats.vercel.app/api?username=queng123&theme=tokyonight" width="100%"/>
+<img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=queng123&theme=tokyonight" />
+
 
 ### Où me trouver ?
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Adri11334&theme=react-dark&bg_color=0&hide_border=true" width="100%"/>
-  <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api?username=Adri11334&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=00000000" />
 <p><a href="https://github.com/queng123" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/quentin-brejoin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 

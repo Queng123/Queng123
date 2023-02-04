@@ -6,3 +6,10 @@ N'hésitez pas à m'envoyer un message privé si vous souhaitez discuter, je sui
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=queng123&theme=tokyonight">
 <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs?username=queng123&theme=tokyonight">
+
+### Où me trouver ?
+
+<p><a href="https://github.com/queng123" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/quentin-brejoin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+

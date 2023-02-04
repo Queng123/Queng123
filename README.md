@@ -1,4 +1,4 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ### Hello, moi, c'est Quentin !
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, moi, c'est Quentin !
 Je suis actuellement étudiant en 2ème année à Epitech Nantes.
 Je suis intéressé par tout type de technologies et de domaines, que ce soit dans la programmation, mais pas que !
 

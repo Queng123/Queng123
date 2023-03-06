@@ -36,6 +36,7 @@ N'hésitez pas à m'envoyer un message privé si vous souhaitez discuter, je sui
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=queng123&hide_border=true&background=00000000&currStreakNum=C3D1D9&theme=github-dark-blue" alt="queng123" />
 </div>
 
+<img align="center" src="https://beautiful-readme.vercel.app/" alt="queng123" />
 
 ### Où me trouver ?
 <p><a href="https://github.com/queng123" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/quentin-brejoin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

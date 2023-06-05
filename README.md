@@ -1,6 +1,6 @@
 # Rebuilding in progress ><
 
-I'm currently a 2nd year student at [Epitech](https://www.epitech.eu/) Nantes.    
+I'm currently a 2nd year student at [Epitech](https://www.epitech.eu/) Nantes.
 Feel free to send me a private message if you want to chat, I'm probably coding or playing board games, so I'll reply as soon as I'm done!
 
 # I code with:
@@ -38,6 +38,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 
 # Where can you find me?
 I'm currently developing my website, it's coming soon!
+
 <a href="https://www.linkedin.com/in/quentin-brejoin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 

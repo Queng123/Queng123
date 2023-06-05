@@ -3,8 +3,7 @@
 I'm currently a 2nd year student at [Epitech](https://www.epitech.eu/) Nantes.    
 I'm currently developing my website, it's coming soon!
 
-N'hésitez pas à m'envoyer un message privé si vous souhaitez discuter, je suis probablement en train de coder ou de me faire une partie de jeux de sociétés, alors je réponds dès que j'ai finis !
-
+Feel free to send me a private message if you want to chat, I'm probably coding or playing board games, so I'll reply as soon as I'm done!
 
 # I code with:
 

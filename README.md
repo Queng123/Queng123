@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> rebuilding in progress ><
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Rebuilding in progress ><
 Je suis actuellement étudiant en 2ème année à [Epitech](https://www.epitech.eu/) Nantes.
 Je suis intéressé par tout type de technologies et de domaines, que ce soit dans la programmation, mais pas que !
 
@@ -8,7 +8,7 @@ N'hésitez pas à m'envoyer un message privé si vous souhaitez discuter, je sui
 # Je code avec :
 
 ## 💻 Langages:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c++&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

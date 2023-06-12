@@ -42,6 +42,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 # Games
 <a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/" target="_blank"><img alt="Counter-Strike" src="https://img.shields.io/badge/❤️CounterStrike❤️-de9b35?style=for-the-badge&logo=counter-strike&logoColor=white" /></a>
 <a href="https://www.faceit.com/fr/players/quengg" target="_blank"><img alt="Faceit" src="https://img.shields.io/badge/faceit-FF5500?style=for-the-badge&logo=faceit&logoColor=white" /></a>
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 # Where can you find me?
 I'm currently developing my [website](https://www.queng.tech/), it's coming soon!

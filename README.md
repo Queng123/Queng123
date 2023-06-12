@@ -1,9 +1,16 @@
-# Hello :)
+# Hey i'm Queng 💻
 
 I'm currently a 2nd year student at [Epitech](https://www.epitech.eu/) Nantes.   
 Feel free to send me a private message if you want to chat, I'm probably coding or playing board games, so I'll reply as soon as I'm done!
+
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=quentin.brejoin&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" alt="queng" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=quentin.brejoin&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" alt="queng" />
+</div>
+
+<div align="center">
+    <b>Looking for an intern?
+        <a href="https://www.linkedin.com/in/quentin-brejoin">Let's connect and talk!</a>
+    </b>
 </div>
 
 # I code with:

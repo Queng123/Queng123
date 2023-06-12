@@ -36,11 +36,13 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
+# Games
+![Counter-Strike](https://img.shields.io/badge/❤️CounterStrike❤️-de9b35?style=for-the-badge&logo=counter-strike&logoColor=white)
+
 # Where can you find me?
 I'm currently developing my [website](https://www.queng.tech/), it's coming soon!
 
 <a href="https://www.linkedin.com/in/quentin-brejoin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
+<a href="https://steamcommunity.com/id/quengg/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-%23121011?style=for-the-badge&logo=steam&logoColor=white" /></a>
 
 

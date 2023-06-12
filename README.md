@@ -36,11 +36,12 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ![Unity](https://img.shields.io/badge/Unity-%23121011?style=for-the-badge&logo=unity&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%FF000?style=for-the-badge&color=D24939&logo=jenkins&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-e2432a?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 # Games
 ![Counter-Strike](https://img.shields.io/badge/❤️CounterStrike❤️-de9b35?style=for-the-badge&logo=counter-strike&logoColor=white)
+![https://www.linkedin.com/in/quentin-brejoin](https://img.shields.io/badge/faceit-FF5500?style=for-the-badge&logo=faceit&logoColor=white)
 
 # Where can you find me?
 I'm currently developing my [website](https://www.queng.tech/), it's coming soon!

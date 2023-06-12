@@ -40,8 +40,8 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 # Games
-![Counter-Strike](https://img.shields.io/badge/❤️CounterStrike❤️-de9b35?style=for-the-badge&logo=counter-strike&logoColor=white)
-![https://www.linkedin.com/in/quentin-brejoin](https://img.shields.io/badge/faceit-FF5500?style=for-the-badge&logo=faceit&logoColor=white)
+<a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/" target="_blank"><img alt="Counter-Strike" src="https://img.shields.io/badge/❤️CounterStrike❤️-de9b35?style=for-the-badge&logo=counter-strike&logoColor=white" /></a>
+<a href="https://www.faceit.com/fr/players/quengg" target="_blank"><img alt="Faceit" src="https://img.shields.io/badge/faceit-FF5500?style=for-the-badge&logo=faceit&logoColor=white" /></a>
 
 # Where can you find me?
 I'm currently developing my [website](https://www.queng.tech/), it's coming soon!

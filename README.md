@@ -1,4 +1,4 @@
-# Welcome to my profile
+# Hello :)
 
 I'm currently a 2nd year student at [Epitech](https://www.epitech.eu/) Nantes.   
 Feel free to send me a private message if you want to chat, I'm probably coding or playing board games, so I'll reply as soon as I'm done!

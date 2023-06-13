@@ -4,13 +4,13 @@ I'm currently a 2nd year student at [Epitech](https://www.epitech.eu/) Nantes.
 Feel free to send me a private message if you want to chat, I'm probably coding or playing board games, so I'll reply as soon as I'm done!
 
 <div align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=quentin.brejoin&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" alt="queng" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=quentin.brejoin&cover_image=true&theme=natemoo-re&background_color=000000&interchange=false" alt="queng" />
 </div>
 
 # I code with:
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=queng123&hide_border=true&background=00000000&currStreakNum=C3D1D9&theme=github-dark-blue" alt="queng123" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=queng123&hide_border=true&background=000000&currStreakNum=C3D1D9&theme=github-dark-blue" alt="queng123" />
 </div>
 
 ## 💻 Languages:

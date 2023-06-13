@@ -50,5 +50,5 @@ I'm currently developing my [website](https://www.queng.tech/), it's coming soon
 
 <a href="https://www.linkedin.com/in/quentin-brejoin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://steamcommunity.com/id/quengg/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-%23121011?style=for-the-badge&logo=steam&logoColor=white" /></a>
-<a href="https://discord.com/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/queng%234879-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.com/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/queng-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:quentin.brejoin.pro@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-ffffff.svg?&style=for-the-badge&logo=gmail&logoColor=c71610" /></a>

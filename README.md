@@ -38,6 +38,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ![GitLab](https://img.shields.io/badge/GitLab-e2432a?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23121011?style=for-the-badge&logo=unity&logoColor=white)
+![CMAKE](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 # Where can you find me?
 I'm currently developing my [website](https://www.queng.tech/), it's coming soon!

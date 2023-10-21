@@ -7,6 +7,17 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=quentin.brejoin&cover_image=true&theme=default&background_color=000000&interchange=false" alt="queng" />
 </div>
 
+## Discoveries
+<a href="https://devfest2021.gdgnantes.com/fr/" target="_blank"><img alt="DevFest2021" src="https://img.shields.io/badge/DevFest_~_2021-FFD800?&style=for-the-badge&logoColor=white" />
+<a href="https://github.com/Queng123/Jam" target="_blank"><img alt="EpitechJamBlue" src="https://img.shields.io/badge/EpitechJam_Blue_~_2022-0000FF?&style=for-the-badge&logoColor=white" />
+<a href="https://www.linkedin.com/posts/onepoint_nantes-epitechtoulouse-hackathon-activity-6925717072467402752-qJUr/?trk=public_profile_like_view&originalSubdomain=fr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/One_Point_~_2022-00C5FF.svg?&style=for-the-badge" /></a>
+<a href="https://web2day.co/" target="_blank"><img alt="Web2Day2022" src="https://img.shields.io/badge/Web2Day_~_2022-FEA0F0?&style=for-the-badge&logoColor=white" />
+<a href="https://github.com/Queng123/GGJ" target="_blank"><img alt="GlobalGameJamRoot" src="https://img.shields.io/badge/GlobalGameJam_Root_~_2023-8B4513?&style=for-the-badge&logoColor=white" />
+<a href="https://www.epitech.eu/fr/actualites-evenements/project-week-les-etudiants-depitech-de-liseg-et-de-artsup-travaillent-main-dans-la-main-pour-jcdecaux/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Project_Week_~_2023-F700FF.svg?&style=for-the-badge" /></a>
+<a href="https://web2day.co/" target="_blank"><img alt="Web2Day2023" src="https://img.shields.io/badge/Web2Day_~_2023-FEEAA0?&style=for-the-badge&logoColor=white" />
+<a href="https://www.radiofrance.com/presse/radio-france-invite-les-etudiants-depitech-imaginer-la-radio-de-demain" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Radio_France_~_2023-002BFF.svg?&style=for-the-badge" /></a>
+<a href="https://devfest2023.gdgnantes.com/" target="_blank"><img alt="DevFest2023" src="https://img.shields.io/badge/DevFest_~_2023-FF7800?&style=for-the-badge&logoColor=white" />
+
 # I code with:
 
 <div align="center">

@@ -2,6 +2,9 @@
 
 I'm currently a 2nd year student at [Epitech](https://www.epitech.eu/) Nantes.   
 Feel free to send me a private message if you want to chat, I'm probably coding or playing board games, so I'll reply as soon as I'm done!
+<div align="center">
+ <b><big>✨AI & cloud✨</big></b>
+</div>
 
 <div align="center">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=quentin.brejoin&cover_image=true&theme=default&background_color=000000&interchange=false" alt="queng" />

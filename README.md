@@ -22,7 +22,6 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 <a href="https://devfest2023.gdgnantes.com/" target="_blank"><img alt="DevFest2023" src="https://img.shields.io/badge/DevFest_~_2023-FF7800?&style=for-the-badge&logoColor=white" />
 
 # I code with:
-
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=queng123&hide_border=true&background=000000&currStreakNum=C3D1D9&theme=github-dark-blue" alt="queng123" />
 </div>

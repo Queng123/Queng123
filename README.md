@@ -20,6 +20,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 <a href="https://web2day.co/" target="_blank"><img alt="Web2Day2023" src="https://img.shields.io/badge/Web2Day_~_2023-FEEAA0?&style=for-the-badge&logoColor=white" />
 <a href="https://www.radiofrance.com/presse/radio-france-invite-les-etudiants-depitech-imaginer-la-radio-de-demain" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Radio_France_~_2023-002BFF.svg?&style=for-the-badge" /></a>
 <a href="https://devfest2023.gdgnantes.com/" target="_blank"><img alt="DevFest2023" src="https://img.shields.io/badge/DevFest_~_2023-FF7800?&style=for-the-badge&logoColor=white" />
+<a href="https://startupweekendnantes.fr/" target="_blank"><img alt="StartupWeekEnd" src="https://img.shields.io/badge/❤️Startup_Week_End❤️_~_2023-00C5FF.svg?&style=for-the-badge" /></a>
 
 # I code with:
 <div align="center">

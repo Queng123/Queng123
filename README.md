@@ -21,6 +21,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 <a href="https://www.radiofrance.com/presse/radio-france-invite-les-etudiants-depitech-imaginer-la-radio-de-demain" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Radio_France_~_2023-002BFF.svg?&style=for-the-badge" /></a>
 <a href="https://devfest2023.gdgnantes.com/" target="_blank"><img alt="DevFest2023" src="https://img.shields.io/badge/DevFest_~_2023-FF7800?&style=for-the-badge&logoColor=white" />
 <a href="https://startupweekendnantes.fr/" target="_blank"><img alt="StartupWeekEnd" src="https://img.shields.io/badge/❤️Startup_Week_End❤️_~_2023-00C5FF.svg?&style=for-the-badge" /></a>
+<a href="https://github.com/Queng123/FruizTo/" target="_blank"><img alt="EpitechJam Game" src="https://img.shields.io/badge/EpitechJam_Game_~_2023-F7AA23.svg?&style=for-the-badge" /></a>
 
 # I code with:
 <div align="center">
@@ -36,6 +37,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ![React Native](https://img.shields.io/badge/-React_Native-ffffff?style=for-the-badge&logo=react&logoColor=blue)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 ## 📁 Databases:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)

@@ -56,6 +56,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ![Unity](https://img.shields.io/badge/Unity-%23121011?style=for-the-badge&logo=unity&logoColor=white)
 ![CMAKE](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 
 # Where can you find me?
 <a href="https://www.linkedin.com/in/quentin-brejoin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/quentin_brejoin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

@@ -42,6 +42,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ## 📁 Databases:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-000000.svg?style=for-the-badge&logo=Supabase)
 
 ## 📚 Frameworks, Platforms and Libraries:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)

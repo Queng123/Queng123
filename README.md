@@ -22,6 +22,8 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 <a href="https://devfest2023.gdgnantes.com/" target="_blank"><img alt="DevFest2023" src="https://img.shields.io/badge/DevFest_~_2023-FF7800?&style=for-the-badge&logoColor=white" />
 <a href="https://startupweekendnantes.fr/" target="_blank"><img alt="StartupWeekEnd" src="https://img.shields.io/badge/❤️Startup_Week_End❤️_~_2023-00C5FF.svg?&style=for-the-badge" /></a>
 <a href="https://github.com/Queng123/FruizTo/" target="_blank"><img alt="EpitechJam Game" src="https://img.shields.io/badge/EpitechJam_Game_~_2023-F7AA23.svg?&style=for-the-badge" /></a>
+<a target="_blank"><img alt="Design Sprint" src="https://img.shields.io/badge/Design_sprint_~_2024-grey.svg?&style=for-the-badge" /></a>
+<a href="https://www.iseg.fr/summer-code-camp-initiation-epitech/" target="_blank"><img alt="Iseg summer code camp" src="https://img.shields.io/badge/ISEG_SUMMER_CODE_CAMP_~_2024-7bdcb5.svg?&style=for-the-badge" /></a>
 
 # I code with:
 <div align="center">

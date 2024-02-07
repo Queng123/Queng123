@@ -25,6 +25,15 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 <a target="_blank"><img alt="Design Sprint" src="https://img.shields.io/badge/Design_sprint_~_2024-grey.svg?&style=for-the-badge" /></a>
 <a href="https://www.iseg.fr/summer-code-camp-initiation-epitech/" target="_blank"><img alt="Iseg summer code camp" src="https://img.shields.io/badge/ISEG_SUMMER_CODE_CAMP_~_2024-7bdcb5.svg?&style=for-the-badge" /></a>
 
+## Professional experiences
+
+✨ seasonal work - **Napapiji**, La Baule, France <br>
+✨ seasonal work - **Week-End**, La Baule, France <br>
+✨ seasonal work - **Lidl**, Guérande, France <br>
+✨ Internship - **Hipay**, Nantes, France <br>
+✨ Temporary Job - **ISCC**, Nantes, France <br>
+✨ Internship - **Lumiplan**, Saint-Herblain, France <br>
+
 # I code with:
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=queng123&hide_border=true&background=000000&currStreakNum=C3D1D9&theme=github-dark-blue" alt="queng123" />

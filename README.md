@@ -31,7 +31,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ✨ seasonal work - **Week-End**, La Baule, France <br>
 ✨ seasonal work - **Lidl**, Guérande, France <br>
 ✨ Internship - **Hipay**, Nantes, France <br>
-✨ Temporary Job - **ISCC**, Nantes, France <br>
+✨ Temporary Job - **ISEG Summer Code Camp**, Nantes, France <br>
 ✨ Internship - **Lumiplan**, Saint-Herblain, France <br>
 
 # I code with:

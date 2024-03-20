@@ -1,7 +1,11 @@
 # Hey i'm Queng 💻
 
-I'm currently a 2nd year student at [Epitech](https://www.epitech.eu/) Nantes.   
+3rd year student at [Epitech](https://www.epitech.eu/) Nantes, France premier IT school.
+Going to [San Francisco State University](https://www.sfsu.edu/index.html) next year, for graduate program 😍
+Mainly interested in cloud and AI, but also discovering new fields.
+Currently creating an AI SaaS for real estate agents and a website for counter-strike enthusiasts.
 Feel free to send me a private message if you want to chat, I'm probably coding or playing board games, so I'll reply as soon as I'm done!
+
 <div align="center">
  <b><h2>✨AI & cloud✨</h2></b>
 </div>

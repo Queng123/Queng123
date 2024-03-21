@@ -16,16 +16,16 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 
 ## Discoveries
 <a href="https://devfest2021.gdgnantes.com/fr/" target="_blank"><img alt="DevFest2021" src="https://img.shields.io/badge/DevFest_~_2021-FFD800?&style=for-the-badge&logoColor=white" />
-<a href="https://github.com/Queng123/Jam" target="_blank"><img alt="EpitechJamBlue" src="https://img.shields.io/badge/EpitechJam_Blue_~_2022-0000FF?&style=for-the-badge&logoColor=white" />
+<a target="_blank"><img alt="EpitechJamBlue" src="https://img.shields.io/badge/EpitechJam_Blue_~_2022-0000FF?&style=for-the-badge&logoColor=white" />
 <a href="https://www.linkedin.com/posts/onepoint_nantes-epitechtoulouse-hackathon-activity-6925717072467402752-qJUr/?trk=public_profile_like_view&originalSubdomain=fr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/One_Point_~_2022-00C5FF.svg?&style=for-the-badge" /></a>
 <a href="https://web2day.co/" target="_blank"><img alt="Web2Day2022" src="https://img.shields.io/badge/Web2Day_~_2022-FEA0F0?&style=for-the-badge&logoColor=white" />
-<a href="https://github.com/Queng123/GGJ" target="_blank"><img alt="GlobalGameJamRoot" src="https://img.shields.io/badge/GlobalGameJam_Root_~_2023-8B4513?&style=for-the-badge&logoColor=white" />
+<a target="_blank"><img alt="GlobalGameJamRoot" src="https://img.shields.io/badge/GlobalGameJam_Root_~_2023-8B4513?&style=for-the-badge&logoColor=white" />
 <a href="https://www.epitech.eu/fr/actualites-evenements/project-week-les-etudiants-depitech-de-liseg-et-de-artsup-travaillent-main-dans-la-main-pour-jcdecaux/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Project_Week_~_2023-F700FF.svg?&style=for-the-badge" /></a>
 <a href="https://web2day.co/" target="_blank"><img alt="Web2Day2023" src="https://img.shields.io/badge/Web2Day_~_2023-FEEAA0?&style=for-the-badge&logoColor=white" />
 <a href="https://www.radiofrance.com/presse/radio-france-invite-les-etudiants-depitech-imaginer-la-radio-de-demain" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Radio_France_~_2023-002BFF.svg?&style=for-the-badge" /></a>
 <a href="https://devfest2023.gdgnantes.com/" target="_blank"><img alt="DevFest2023" src="https://img.shields.io/badge/DevFest_~_2023-FF7800?&style=for-the-badge&logoColor=white" />
 <a href="https://startupweekendnantes.fr/" target="_blank"><img alt="StartupWeekEnd" src="https://img.shields.io/badge/❤️Startup_Week_End❤️_~_2023-00C5FF.svg?&style=for-the-badge" /></a>
-<a href="https://github.com/Queng123/FruizTo/" target="_blank"><img alt="EpitechJam Game" src="https://img.shields.io/badge/EpitechJam_Game_~_2023-F7AA23.svg?&style=for-the-badge" /></a>
+<a target="_blank"><img alt="EpitechJam Game" src="https://img.shields.io/badge/EpitechJam_Game_~_2023-F7AA23.svg?&style=for-the-badge" /></a>
 <a target="_blank"><img alt="Design Sprint" src="https://img.shields.io/badge/Design_sprint_~_2024-grey.svg?&style=for-the-badge" /></a>
 <a href="https://www.iseg.fr/summer-code-camp-initiation-epitech/" target="_blank"><img alt="Iseg summer code camp" src="https://img.shields.io/badge/ISEG_SUMMER_CODE_CAMP_~_2024-7bdcb5.svg?&style=for-the-badge" /></a>
 

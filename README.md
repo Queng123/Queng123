@@ -28,6 +28,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 <a target="_blank"><img alt="EpitechJam Game" src="https://img.shields.io/badge/EpitechJam_Game_~_2023-F7AA23.svg?&style=for-the-badge" /></a>
 <a target="_blank"><img alt="Design Sprint" src="https://img.shields.io/badge/Design_sprint_~_2024-grey.svg?&style=for-the-badge" /></a>
 <a href="https://www.iseg.fr/summer-code-camp-initiation-epitech/" target="_blank"><img alt="Iseg summer code camp" src="https://img.shields.io/badge/ISEG_SUMMER_CODE_CAMP_~_2024-7bdcb5.svg?&style=for-the-badge" /></a>
+<a href="https://vivatechnology.com/" target="_blank"><img alt="VivaTech" src="https://img.shields.io/badge/VivaTech_~_2024-ee0978.svg?&style=for-the-badge" /></a>
 
 ## Professional experiences
 

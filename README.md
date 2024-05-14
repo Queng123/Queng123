@@ -39,12 +39,3 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ✨ Temporary Job - **ISEG Summer Code Camp**, Nantes, France <br>
 ✨ Internship - **Lumiplan**, Saint-Herblain, France <br>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=queng123&hide_border=true&background=000000&currStreakNum=C3D1D9&theme=github-dark-blue" alt="queng123" />
-</div>
-
-
-# Where can you find me?
-<a href="https://www.linkedin.com/in/quentin-brejoin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/quentin_brejoin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://discord.com/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/queng-7289da?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:quentin.brejoin.pro@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/quentin.brejoin.pro@gmail.com-ffffff.svg?&style=for-the-badge&logo=gmail&logoColor=c71610" /></a>

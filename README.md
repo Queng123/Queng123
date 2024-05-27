@@ -39,3 +39,16 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ✨ Temporary Job - **ISEG Summer Code Camp**, Nantes, France <br>
 ✨ Internship - **Lumiplan**, Saint-Herblain, France <br>
 
+## Travels
+
+![](https://img.icons8.com/?size=100&id=5RtaKEr09Jy6&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=ZGEFKpJoPdJQ&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=ARmbqGBLERSo&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=nz6Zx2vJbzRG&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=JfBHeXaPw7Gu&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=6Hs1IM1NzN7p&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=OyqucOGoByl9&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=xapj7ZzAUZKI&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=UtF7eqZKX1PP&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=1xhydKzjnswq&format=png&color=000000)
+

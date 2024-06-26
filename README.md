@@ -11,7 +11,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 </div>
 
 <div align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=quentin.brejoin&cover_image=true&theme=novatorem&background_color=000000&interchange=false" alt="queng" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=quentin.brejoin&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="queng" />
 </div>
 
 ## Events 

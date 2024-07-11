@@ -38,6 +38,8 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 
 <a href="https://www.epitech.eu/fr/actualites-evenements/project-week-les-etudiants-depitech-de-liseg-et-de-artsup-travaillent-main-dans-la-main-pour-jcdecaux/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Project_Week_~_2023_~_top_5-F700FF.svg?&style=for-the-badge" /></a>
 
+<a href="https://jobs.soprasteria.com/details/2023/06/18/default-calendar/break-the-code---test" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Break_the_code_~_2023_~_top_4-db1d2b.svg?&style=for-the-badge" /></a>
+
 <a href="https://hyperradio.radiofrance.com/blog/projets-blog/accessibilite-et-rse-au-coeur-du-radiohacktivity-organise-par-epitech-x-radio-france/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Radio_France_~_2023_~_3eme_place-002BFF.svg?&style=for-the-badge" /></a>
 
 <a href="https://startupweekendnantes.fr/" target="_blank"><img alt="StartupWeekEnd" src="https://img.shields.io/badge/❤️Startup_Week_End❤️_~_2023_~_2eme_place-00C5FF.svg?&style=for-the-badge" /></a>

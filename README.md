@@ -17,9 +17,9 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 
 ## Currently working on
 
-- PawCare, an app to understand your pets using AI
-- Virt’house, a Saas for real estate agents
-- Virtual assist, a homemade home assistant with AI
+- **PawCare**, an app to understand your pets using AI
+- **Virt’house**, a Saas for real estate agents using AI and 3D generation
+- **Virtual assist**, a homemade home assistant with AI
 
 
 ## Events 

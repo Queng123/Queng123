@@ -1,9 +1,10 @@
 # Hey i'm Queng 💻
 
-3rd year student at [Epitech](https://www.epitech.eu/) Nantes, France premier IT school. 
-Going to [San Francisco State University](https://www.sfsu.edu/index.html) in **15** days, for graduate program 😍
+4th year student at [Epitech](https://www.epitech.eu/) Nantes, France premier IT school.
+1st year student at [San Francisco State University](https://www.sfsu.edu/index.html)
+
 Mainly interested in cloud and AI, but also discovering new fields.<br/>
-Currently creating an AI SaaS for real estate agents (contact me for more informations😄) and a website for counter-strike enthusiasts. (English version is coming soon!)<br/>
+
 Feel free to send me a private message if you want to chat, I'm probably coding or playing board games, so I'll reply as soon as I'm done!
 
 <div align="center">
@@ -13,6 +14,13 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 <div align="center">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=quentin.brejoin&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="queng" />
 </div>
+
+## Currently working on
+
+- PawCare, an app to understand your pets using AI
+- Virt’house, a Saas for real estate agents
+- Virtual assist, a homemade home assistant with AI
+
 
 ## Events 
 

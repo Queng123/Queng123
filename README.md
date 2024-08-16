@@ -77,6 +77,8 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ![](https://img.icons8.com/?size=100&id=UtF7eqZKX1PP&format=png&color=000000)
 ![](https://img.icons8.com/?size=100&id=1xhydKzjnswq&format=png&color=000000)
 ![image](https://github.com/user-attachments/assets/9f0933fb-0563-484c-85ea-dd0ff213a601)
+![image](https://github.com/user-attachments/assets/043b622f-9226-4677-84eb-77ea820fff15)
+
 
 
 

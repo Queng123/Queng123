@@ -18,6 +18,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ## Currently working on
 
 - **PawCare**, an app to understand your pets using AI
+- **OneCard**, an app to use meal plan using you phone, at SFSU
 
 ## Currently paused
 

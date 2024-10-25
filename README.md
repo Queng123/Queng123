@@ -18,13 +18,14 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ## Currently working on
 
 - **PawCare**, an app to understand your pets using AI
-- **OneCard**, an app to use meal plan using you phone, at SFSU
+- **SF VISION**, an app to discover SF on the apple vision pro device
+- **Meet2gether**, a website to plan your meetings using your collaborators availability all around the world
 
 ## Currently paused
 
 - **Virt’house**, a Saas for real estate agents using AI and 3D generation
 - **Virtual assist**, a homemade home assistant with AI
-
+- **OneCard**, an app to use meal plan using you phone, at SFSU
 
 ## Events 
 
@@ -80,8 +81,8 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ![](https://img.icons8.com/?size=100&id=xapj7ZzAUZKI&format=png&color=000000)
 ![](https://img.icons8.com/?size=100&id=UtF7eqZKX1PP&format=png&color=000000)
 ![](https://img.icons8.com/?size=100&id=1xhydKzjnswq&format=png&color=000000)
-![image](https://github.com/user-attachments/assets/9f0933fb-0563-484c-85ea-dd0ff213a601)
-![image](https://github.com/user-attachments/assets/043b622f-9226-4677-84eb-77ea820fff15)
+![](https://github.com/user-attachments/assets/9f0933fb-0563-484c-85ea-dd0ff213a601)
+![](https://github.com/user-attachments/assets/043b622f-9226-4677-84eb-77ea820fff15)
 
 
 

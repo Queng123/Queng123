@@ -8,7 +8,7 @@ Mainly interested in cloud and AI, but also discovering new fields.<br/>
 Feel free to send me a private message if you want to chat, I'm probably coding or playing board games, so I'll reply as soon as I'm done!
 
 <div align="center">
- <b><h2>✨AI & cloud✨</h2></b>
+ <b><h2>✨Software Engineer✨</h2></b>
 </div>
 
 <div align="center">

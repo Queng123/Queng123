@@ -85,6 +85,9 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ![](https://img.icons8.com/?size=100&id=1xhydKzjnswq&format=png&color=000000)
 ![](https://github.com/user-attachments/assets/9f0933fb-0563-484c-85ea-dd0ff213a601)
 ![](https://github.com/user-attachments/assets/043b622f-9226-4677-84eb-77ea820fff15)
+![](https://github.com/user-attachments/assets/fa85d2a9-ec8e-466a-b49d-74b461f349e7)
+![](https://github.com/user-attachments/assets/45f10641-819a-4f8f-82c9-1f37db902492)
+
 
 
 

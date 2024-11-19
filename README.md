@@ -60,7 +60,9 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 
 <a href="https://shift-hackathon.com/" target="_blank"><img alt="Shift" src="https://img.shields.io/badge/❤️Shift❤️_~_2024_~_3rd_place-ff9400.svg?&style=for-the-badge" /></a>
 
-<a href="https://events.berkeley.edu/journalism/event/269993-3-day-aijournalism-hackathon-harnessing-ai-to" target="_blank"><img alt="Shift" src="https://img.shields.io/badge/Berkeley_AI/Journalism_~_2024-FDB515.svg?&style=for-the-badge" /></a>
+<a href="https://events.berkeley.edu/journalism/event/269993-3-day-aijournalism-hackathon-harnessing-ai-to" target="_blank"><img alt="Shift" src="https://img.shields.io/badge/Berkeley_AI/Journalism_~_2024-002676.svg?&style=for-the-badge" /></a>
+
+<a href="https://ethglobal.com/events/bangkok" target="_blank"><img alt="" src="https://img.shields.io/badge/ETHGlobal_Bangkok_~_2024_~_$1500_winner-ffc750.svg?&style=for-the-badge" /></a>
 
 ## Professional experiences
 

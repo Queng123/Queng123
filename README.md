@@ -19,7 +19,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 
 - **PawCare**, an app to understand your pets using AI
 - **SF VISION**, an app to discover SF on the apple vision pro device
-- **Meet2gether**, a website to plan your meetings using your collaborators availability all around the world
+- **world-schedule**, a website to plan your meetings using your collaborators availability all around the world (Beta now available at www.world-schedule.com)
 
 ## Currently paused
 

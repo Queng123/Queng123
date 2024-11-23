@@ -25,7 +25,6 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 
 - **Virt’house**, a Saas for real estate agents using AI and 3D generation
 - **Virtual assist**, a homemade home assistant with AI
-- **OneCard**, an app to use meal plan using you phone, at SFSU
 
 ## Events 
 

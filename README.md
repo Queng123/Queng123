@@ -63,6 +63,8 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 
 <a href="https://ethglobal.com/events/bangkok" target="_blank"><img alt="" src="https://img.shields.io/badge/ETHGlobal_Bangkok_~_2024_~_$1500_winner-ffc750.svg?&style=for-the-badge" /></a>
 
+<a href="https://www.defense-tech-hackathon.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Defense_Tech_Hackathon_~_2024_-BB133E.svg?&style=for-the-badge" /></a>
+
 ## Professional experiences
 
 ✨ seasonal work - **Napapiji**, La Baule, France <br>

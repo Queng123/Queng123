@@ -21,11 +21,6 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 - **SF VISION**, an app to discover SF on the apple vision pro device
 - **world-schedule**, a website to plan your meetings using your collaborators availability all around the world (Beta now available at www.world-schedule.com)
 
-## Currently paused
-
-- **Virt’house**, a Saas for real estate agents using AI and 3D generation
-- **Virtual assist**, a homemade home assistant with AI
-
 ## Events 
 
 <a href="https://devfest2021.gdgnantes.com/fr/" target="_blank"><img alt="DevFest2021" src="https://img.shields.io/badge/DevFest_~_2021-FFD800?&style=for-the-badge&logoColor=white" />

@@ -32,6 +32,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 <a href="https://www.iseg.fr/summer-code-camp-initiation-epitech/" target="_blank"><img alt="Iseg summer code camp" src="https://img.shields.io/badge/ISEG_SUMMER_CODE_CAMP_~_2024-7bdcb5.svg?&style=for-the-badge" /></a>
 <a href="https://vivatechnology.com/" target="_blank"><img alt="VivaTech" src="https://img.shields.io/badge/VivaTech_~_2024-ee0978.svg?&style=for-the-badge" /></a>
 <a href="https://githubuniverse.com/" target="_blank"><img alt="Github_Universe" src="https://img.shields.io/badge/Github_Universe_~_2024-ffffff.svg?&style=for-the-badge" /></a>
+<a href="https://www.developerweek.com/" target="_blank"><img alt="Developer week" src="https://img.shields.io/badge/Developer_week_~_2025-f78da7.svg?&style=for-the-badge" /></a>
 
 ## Jams
 

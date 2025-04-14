@@ -20,6 +20,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 - **PawCare**, an app to understand your pets using AI
 - **SF VISION**, an app to discover SF on the apple vision pro device
 - **MyLoveSpot**, an app to share your best romance spots
+- **AMI**, a team of AI agent to help supply chain
 
 ## Travels
 

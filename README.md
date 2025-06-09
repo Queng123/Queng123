@@ -1,6 +1,6 @@
 # Hey i'm Queng 💻
 
-4th year student at [Epitech](https://www.epitech.eu/) Nantes, France premier IT school.
+5th year student at [Epitech](https://www.epitech.eu/), France premier IT school.
 1 year study abroad at [San Francisco State University](https://www.sfsu.edu/index.html)
 
 Mainly interested in cloud and AI, but also discovering new fields.<br/>

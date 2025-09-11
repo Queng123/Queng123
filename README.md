@@ -18,7 +18,7 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ## Currently working on
 
 - **[PawCare](https://pawcare-app.framer.website/)**, an app to understand your pets using AI
-- **[MyLoveSpot](https://mylovespot.org/)**, an app to share your best romance spots
+- **[Tapply](http://trytapply.com/)**, an AI powered job application assistant
 
 ## Travels
 

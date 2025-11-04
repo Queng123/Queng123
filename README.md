@@ -1,14 +1,11 @@
 # Hey i'm Queng 💻
 
-5th year student at [Epitech](https://www.epitech.eu/), France premier IT school.
-1 year study abroad at [San Francisco State University](https://www.sfsu.edu/index.html)
-
-Mainly interested in cloud and AI, but also discovering new fields.<br/>
+I'm mainly interested in AI, but also discovering new fields.<br/>
 
 Feel free to send me a private message if you want to chat, I'm probably coding or playing board games, so I'll reply as soon as I'm done!
 
 <div align="center">
- <b><h2>✨Software Engineer✨</h2></b>
+ <b><h2>✨AI Engineer✨</h2></b>
 </div>
 
 <div align="center">

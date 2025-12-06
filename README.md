@@ -15,7 +15,8 @@ Feel free to send me a private message if you want to chat, I'm probably coding 
 ## Currently working on
 
 - **[PawCare](https://pawcare-app.framer.website/)**, an app to understand your pets using AI
-- **[Tapply](http://trytapply.com/)**, an AI powered job application assistant
+- **[Tapply](https://trytapply.com/)**, an AI powered job application assistant
+- **[SantaCall AI](https://www.visio-santa.fr/)**, a visio with Santa Claus
 
 ## Travels
 

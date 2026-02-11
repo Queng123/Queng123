@@ -10,8 +10,6 @@ Mainly focused on **AI** and constantly exploring new tech fields. When I'm not 
 * 🚀 **[Tapply](https://trytapply.com/)** — AI powered job assistant
 * 🎅 **[Visio Santa](https://www.visio-santa.fr/)** — Magic calls with Santa
 
-<br/>
-
 ---
 
 ### 🗺️ Travels

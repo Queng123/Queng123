@@ -7,7 +7,8 @@
 Mainly focused on **AI** and constantly exploring new tech fields. When I'm not shipping code, I'm probably deep into a **board game** 🎲 or traveling the world.
 
 **Currently working on:**
-* 🚀 **[Tapply](https://trytapply.com/)** — AI powered job assistant
+* <img src="https://github.com/user-attachments/assets/2c696e1e-2d79-46cb-9778-889eddfc45ac" width="20" /> **[KyroEval](https://github.com/Queng123/kyroEval)** — AI evaluation platform
+* <img src="https://github.com/user-attachments/assets/c1bc498c-7753-4727-98a5-dc0780da73d8" width="20" /> **[Tapply](https://trytapply.com/)** — AI powered job assistant
 
 ---
 
